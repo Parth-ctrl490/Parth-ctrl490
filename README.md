@@ -1,7 +1,7 @@
 # 💫 About Me:
 <div align="center">
   
-  *Nikhil Kushwaha* | *C, Python, HTML, CSS Enthusiast* |  
+  *Parth Shukla* | *C, Python, HTML, CSS Enthusiast* |  
   Building impactful projects one line of code at a time!
   
 </div>

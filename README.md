@@ -12,7 +12,7 @@
 <div align="center">
 
 <a href="#">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" height="30"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" height="30"/>
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" height="30"/>
@@ -52,7 +52,5 @@
 </div>
 
 ---
-
-
 
 [![](https://visitcount.itsvg.in/api?id=Parth-ctrl490&icon=0&color=0)](https://visitcount.itsvg.in)

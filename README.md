@@ -1,8 +1,8 @@
 # 💫 About Me:
 <div align="center">
   
-  *Parth Shukla* | *Java, Python, HTML, CSS Enthusiast* |  
-  Building impactful projects one line of code at a time!
+  <h3>Parth Shukla | Java, Python, HTML, CSS Enthusiast |  
+  Building impactful projects one line of code at a time!</h3>
   
 </div>
 

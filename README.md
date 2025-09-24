@@ -75,27 +75,6 @@
 <tr>
 <td width="50%">
 
-#### ⚖️ Legal Chatbot
-AI-powered legal advisor for Indian laws providing instant, scenario-based guidance.
-
-**Tech Stack:** `Python` `Flask` `NLP` `Firestore`
-
-[🔗 Repository](https://github.com/Parth-ctrl490/Legal-Chatbot)
-
-</td>
-<td width="50%">
-
-#### 🧘 Yoga AI
-AI-driven yoga posture recognition with real-time feedback using OpenCV & MediaPipe.
-
-**Tech Stack:** `Python` `OpenCV` `MediaPipe`
-
-[🔗 Repository](https://github.com/Parth-ctrl490/YOGA-AI)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 #### 🎓 EduGuide AI
 AI-powered assistant for BTech students providing personalized learning guidance.

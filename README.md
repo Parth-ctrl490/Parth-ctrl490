@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/03a78011-5d69-4d12-a984-38f8607a31c6" alt="pslogo" width="600" />
+  <img src="https://github.com/user-attachments/assets/03a78011-5d69-4d12-a984-38f8607a31c6" alt="pslogo" width="600"  />
 </p>
 
 # Hi, I'm Parth Shukla 👋
@@ -24,7 +24,7 @@
 - 🌱 Learning **React, Next.js, and Advanced Machine Learning**
 - 👯 Open to collaborating on **AI/ML and full-stack web apps**
 - 💬 Ask me about **Python, Machine Learning, Web Development, DSA**
-- 📫 Reach me at **ag257725941@gmail.com**
+- 📫 Reach me at **2k23.psitaiml2310215@gmail.com**
 - ⚡ Fun fact: **I love solving coding challenges & hackathon problems** 🚀
 
 ---

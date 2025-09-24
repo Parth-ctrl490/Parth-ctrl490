@@ -1,7 +1,6 @@
-![pslogo](https://github.com/user-attachments/assets/03a78011-5d69-4d12-a984-38f8607a31c6)
-
-
-# Hi, I'm Parth 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/03a78011-5d69-4d12-a984-38f8607a31c6" alt="pslogo" width="650" />
+</p>
 
 # Hi, I'm Parth Shukla 👋
 
@@ -108,7 +107,7 @@ YOLOv8 AI-powered object detection project for tracking plastic waste.
 
 **Tech Stack:** `Python` `YOLOv8` `Computer Vision`
 
-[🔗 Repository](https://github.com/Parth-ctrl490/Plastic-Waste-Tracker)
+[🔗 Repository](https://github.com/Parth-ctrl490/plastic-waste-tracker)
 
 </td>
 <td width="50%">
@@ -118,7 +117,7 @@ Personalized election assistant with AI chatbot and polling information.
 
 **Tech Stack:** `Python` `AI Chatbot` `Web Development`
 
-[🔗 Repository](https://github.com/Parth-ctrl490/Vote-Buddy)
+[🔗 Repository](https://github.com/Parth-ctrl490/team-project)
 
 </td>
 </tr>
@@ -138,18 +137,18 @@ Full-featured online bookstore with cart system and user authentication.
 [🔗 Repository](https://github.com/Parth-ctrl490/bookstore)
 
 </td>
-<td width="50%">
 
-#### 📊 CODSOFT Internship Tasks
-Machine learning mini-projects: EDA, Prediction Models & Analysis.
-
-**Tech Stack:** `Python` `Pandas` `Scikit-learn` `Matplotlib`
-
-[🔗 Repository](https://github.com/Parth-ctrl490/CODSOFT)
-
-</td>
 </tr>
 </table>
+
+### Data Structures
+<table>
+<tr>
+<td width="33%">
+
+### DSA
+Sorting, Queue, Linkedlist.
+[🔗 Repository](https://github.com/Parth-ctrl490/DataStructures)
 
 ### ☕ Java Projects
 

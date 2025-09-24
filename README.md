@@ -1,129 +1,296 @@
-# 💫 About Me
+# Hi, I'm Parth Shukla 👋
+
 <div align="center">
   
-  <h3>Parth Shukla | AI & ML Enthusiast | Full Stack & Blockchain Explorer |  
-  Building impactful projects one line of code at a time!</h3>
+  **Innovative AI/ML Engineer | Web Developer | Problem Solver**
   
-</div>
-
----
-
-# 💻 Tech Stack
-<div align="center">
-
-<a href="#">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" height="30"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" height="30"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" height="30"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" height="30"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" height="30"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB" alt="React" height="30"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="30"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Blockchain-2A2A72?style=flat&logo=ethereum&logoColor=white" alt="Blockchain" height="30"/>
-</a>
+  [![Profile views](https://komarev.com/ghpvc/?username=Parth-ctrl490&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Parth-ctrl490)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your-email@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parth-shukla-0b5a57287)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/your-profile)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/your-profile)
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 🙋‍♂️ About Me
+
+- 🔭 Currently working on **AI-driven projects (Legal Chatbot & Yoga AI)**
+- 🌱 Learning **React, Next.js, and Advanced Machine Learning**
+- 👯 Open to collaborating on **AI/ML and full-stack web apps**
+- 💬 Ask me about **Python, Machine Learning, Web Development, DSA**
+- 📫 Reach me at **ag257725941@gmail.com**
+- ⚡ Fun fact: **I love solving coding challenges & hackathon problems** 🚀
+
+---
+
+## 🛠️ Languages and Tools
+
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Parth-ctrl490&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Parth-ctrl490&theme=transparent&hide_border=true)<br/>
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 </div>
 
 ---
 
-# 🐍 GitHub Snake Game Animation
+## 🚀 Featured Projects
+
+### 🤖 AI & Machine Learning Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### ⚖️ Legal Chatbot
+AI-powered legal advisor for Indian laws providing instant, scenario-based guidance.
+
+**Tech Stack:** `Python` `Flask` `NLP` `Firestore`
+
+[🔗 Repository](https://github.com/Parth-ctrl490/Legal-Chatbot)
+
+</td>
+<td width="50%">
+
+#### 🧘 Yoga AI
+AI-driven yoga posture recognition with real-time feedback using OpenCV & MediaPipe.
+
+**Tech Stack:** `Python` `OpenCV` `MediaPipe`
+
+[🔗 Repository](https://github.com/Parth-ctrl490/YOGA-AI)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🎓 EduGuide AI
+AI-powered assistant for BTech students providing personalized learning guidance.
+
+**Tech Stack:** `Python` `Machine Learning` `NLP`
+
+[🔗 Repository](https://github.com/Parth-ctrl490/EduGuide-AI)
+
+</td>
+<td width="50%">
+
+#### 🗣️ Echo AI Voice Assistant
+Personal AI assistant using Python and NLP for voice interactions.
+
+**Tech Stack:** `Python` `Speech Recognition` `NLP`
+
+[🔗 Repository](https://github.com/Parth-ctrl490/Echo-Assistant)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### ♻️ Plastic Waste Tracker
+YOLOv8 AI-powered object detection project for tracking plastic waste.
+
+**Tech Stack:** `Python` `YOLOv8` `Computer Vision`
+
+[🔗 Repository](https://github.com/Parth-ctrl490/Plastic-Waste-Tracker)
+
+</td>
+<td width="50%">
+
+#### 🗳️ Vote Buddy
+Personalized election assistant with AI chatbot and polling information.
+
+**Tech Stack:** `Python` `AI Chatbot` `Web Development`
+
+[🔗 Repository](https://github.com/Parth-ctrl490/Vote-Buddy)
+
+</td>
+</tr>
+</table>
+
+### 💻 Web Development Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📚 Online Bookstore
+Full-featured online bookstore with cart system and user authentication.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript` `Local Storage`
+
+[🔗 Repository](https://github.com/Parth-ctrl490/bookstore)
+
+</td>
+<td width="50%">
+
+#### 📊 CODSOFT Internship Tasks
+Machine learning mini-projects: EDA, Prediction Models & Analysis.
+
+**Tech Stack:** `Python` `Pandas` `Scikit-learn` `Matplotlib`
+
+[🔗 Repository](https://github.com/Parth-ctrl490/CODSOFT)
+
+</td>
+</tr>
+</table>
+
+### ☕ Java Projects
+
+<table>
+<tr>
+<td width="33%">
+
+#### 📖 Java Tutorial
+Core Java examples, loops, recursion, arrays, and methods with comprehensive tutorials.
+
+[🔗 Repository](https://github.com/Parth-ctrl490/Java-Tutorial)
+
+</td>
+<td width="33%">
+
+#### 🎯 OOP in Java
+Learn classes, inheritance, polymorphism, and encapsulation with practical examples.
+
+[🔗 Repository](https://github.com/Parth-ctrl490/OOPS-in-Java)
+
+</td>
+<td width="33%">
+
+#### 🔍 Java DSA
+Data Structures & Algorithms: sorting, searching, stacks, queues, linked lists, hash maps.
+
+[🔗 Repository](https://github.com/Parth-ctrl490/Java-DSA)
+
+</td>
+</tr>
+</table>
+
+### 🗄️ Database Projects
+
+#### 🦕 MongoDB Dinosaur Operations
+CRUD operations, aggregation, joins, and schema validation practice with MongoDB.
+
+**Tech Stack:** `MongoDB` `Database Design` `Aggregation Pipelines`
+
+[🔗 Repository](https://github.com/Parth-ctrl490/MongoDB)
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Parth-ctrl490/<your-snake-repo>/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Parth-ctrl490/<your-snake-repo>/output/github-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake Ocean](https://raw.githubusercontent.com/Parth-ctrl490/<your-snake-repo>/output/ocean.gif)
-![GitHub Snake Rainbow](https://raw.githubusercontent.com/Parth-ctrl490/<your-snake-repo>/output/rainbow.svg)
+### 📈 Profile Stats
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parth-ctrl490&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth-ctrl490&theme=tokyonight&hide_border=true)
+
+### 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-ctrl490&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-# 🚀 Projects
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-### Java Projects
-- **[OOP in Java](https://github.com/Parth-ctrl490/OOPS-in-Java)** – Learn classes, inheritance, polymorphism, and encapsulation.  
-- **[Java Tutorials](https://github.com/Parth-ctrl490/Java-Tutorial)** – Core Java examples, loops, recursion, arrays, and methods.  
-- **[Java DSA](https://github.com/Parth-ctrl490/Java-DSA)** – Sorting, searching, stacks, queues, linked lists, hash maps, priority queues.
-
-### Web Development
-- **[Online Bookstore](https://github.com/Parth-ctrl490/bookstore)** – Full HTML, CSS, JS online bookstore project with cart and login system.  
-
-### Databases
-- **[MongoDB Dinosaur Operations](https://github.com/Parth-ctrl490/MongoDB)** – CRUD, aggregation, joins, and schema validation practice.
-
-### AI & ML
-- **[EduGuide AI](https://github.com/Parth-ctrl490/EduGuide-AI)** – AI-powered assistant for BTech students.  
-- **[Echo AI Voice Assistant](https://github.com/Parth-ctrl490/Echo-Assistant)** – Personal AI assistant using Python and NLP.  
-
-### Miscellaneous
-- **[Vote Buddy](https://github.com/Parth-ctrl490/Vote-Buddy)** – Personalized election assistant with AI chatbot and polling info.  
-- **[Plastic Waste Tracker](https://github.com/Parth-ctrl490/Plastic-Waste-Tracker)** – YOLOv8 AI-powered object detection project for tracking plastic waste.
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Parth-ctrl490&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
 ---
 
-# 🌐 Socials
+## 📈 Contribution Graph
+
 <div align="center">
 
-<a href="https://behance.net/">
-  <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance" height="30"/>
-</a>
-<a href="https://www.linkedin.com/in/parth-shukla-0b5a57287">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
-</a>
-<a href="https://github.com/Parth-ctrl490">
-  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" alt="GitHub" height="30"/>
-</a>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parth-ctrl490&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
 
 </div>
 
 ---
 
-# 📈 Visitor Count
+## 🌐 Connect with Me
+
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Parth-ctrl490&icon=1&color=6&label=VISIT+COUNT)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-shukla-0b5a57287)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parth-ctrl490)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ag257725941@gmail.com)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
 
 </div>
 
 ---
 
-# 💡 Fun Fact
+## 📊 Visitor Count
+
 <div align="center">
-  
-I love building **AI, Web, and Full Stack projects**, exploring **Blockchain**, and constantly learning **new tech trends**.  
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House 😄
+
+[![](https://visitcount.itsvg.in/api?id=Parth-ctrl490&icon=2&color=6)](https://visitcount.itsvg.in)
+
+**Thanks for visiting my profile! ⭐ Star some repositories if you find them interesting!**
+
+</div>
+
+---
+
+## 💡 Fun Fact
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House 😄
+
+I love building **AI, Web, and Full Stack projects**, exploring **new technologies**, and constantly learning **emerging tech trends**.
+
+**Let's build something amazing together!** 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Watch my contribution graph get eaten by the snake 🐍
+
+![snake gif](https://github.com/Parth-ctrl490/Parth-ctrl490/blob/output/github-contribution-grid-snake.svg)
 
 </div>

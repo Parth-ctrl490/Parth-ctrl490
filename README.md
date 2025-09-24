@@ -268,8 +268,26 @@ I love building **AI, Web, and Full Stack projects**, exploring **new technologi
 
 <div align="center">
 
+---
+
+<div align="center">
+
 ### 🐍 Watch my contribution graph get eaten by the snake 🐍
 
-![snake gif](https://github.com/Parth-ctrl490/Parth-ctrl490/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parth-ctrl490/Parth-ctrl490/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parth-ctrl490/Parth-ctrl490/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Parth-ctrl490/Parth-ctrl490/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Thanks for visiting my profile!** ⭐
+
+**Star some repositories if you find them interesting!** 🌟
 
 </div>

@@ -1,8 +1,5 @@
-!![Banner]![pslogo](https://github.com/user-attachments/assets/03a78011-5d69-4d12-a984-38f8607a31c6)
+![pslogo](https://github.com/user-attachments/assets/03a78011-5d69-4d12-a984-38f8607a31c6)
 
-<p align="center">
-  <img src="!![pslogo](https://github.com/user-attachments/assets/12a19360-1a6f-4489-9d8a-b015462967b5).png" alt="Banner" width="100%" />
-</p>
 
 # Hi, I'm Parth 👋
 

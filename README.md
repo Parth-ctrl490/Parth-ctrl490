@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/03a78011-5d69-4d12-a984-38f8607a31c6" alt="pslogo" width="650" />
+  <img src="https://github.com/user-attachments/assets/03a78011-5d69-4d12-a984-38f8607a31c6" alt="pslogo" width="600" />
 </p>
 
 # Hi, I'm Parth Shukla 👋
@@ -141,14 +141,6 @@ Full-featured online bookstore with cart system and user authentication.
 </tr>
 </table>
 
-### Data Structures
-<table>
-<tr>
-<td width="33%">
-
-### DSA
-Sorting, Queue, Linkedlist.
-[🔗 Repository](https://github.com/Parth-ctrl490/DataStructures)
 
 ### ☕ Java Projects
 
@@ -159,9 +151,10 @@ Sorting, Queue, Linkedlist.
 #### 📖 Java Tutorial
 Core Java examples, loops, recursion, arrays, and methods with comprehensive tutorials.
 
-[🔗 Repository](https://github.com/Parth-ctrl490/Java-Tutorial)
+[🔗 Repository](https://github.com/Parth-ctrl490/Tutorial)
 
 </td>
+
 <td width="33%">
 
 #### 🎯 OOP in Java
@@ -175,7 +168,7 @@ Learn classes, inheritance, polymorphism, and encapsulation with practical examp
 #### 🔍 Java DSA
 Data Structures & Algorithms: sorting, searching, stacks, queues, linked lists, hash maps.
 
-[🔗 Repository](https://github.com/Parth-ctrl490/Java-DSA)
+[🔗 Repository](https://github.com/Parth-ctrl490/DataStructures)
 
 </td>
 </tr>

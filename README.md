@@ -5,7 +5,7 @@
   **Innovative AI/ML Engineer | Web Developer | Problem Solver**
   
   [![Profile views](https://komarev.com/ghpvc/?username=Parth-ctrl490&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Parth-ctrl490)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your-email@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:2k23.psitaiml2310215@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parth-shukla-0b5a57287)
   [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/your-profile)
   [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/your-profile)

@@ -11,8 +11,8 @@
   [![Profile views](https://komarev.com/ghpvc/?username=Parth-ctrl490&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Parth-ctrl490)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:2k23.psitaiml2310215@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parth-shukla-0b5a57287)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/your-profile)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/your-profile)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/NrIHWU93sE/)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/AIML1_2310215)
 
 </div>
 
@@ -228,10 +228,10 @@ CRUD operations, aggregation, joins, and schema validation practice with MongoDB
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-shukla-0b5a57287)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parth-ctrl490)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ag257725941@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2k23.psitaiml2310215@gmail.com)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/NrIHWU93sE/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/AIML1_2310215)
 
 </div>
 

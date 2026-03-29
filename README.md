@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/03a78011-5d69-4d12-a984-38f8607a31c6" alt="pslogo" width="900"  />
+  <img src="<img width="1041" height="1024" alt="Gemini_Generated_Image_6w9yoa6w9yoa6w9y" src="https://github.com/user-attachments/assets/19ab599f-653e-4384-bf14-470c2f7e61a9" />
+" alt="pslogo" width="900"  />
 </p>
 
 # Hi, I'm Parth Shukla 👋

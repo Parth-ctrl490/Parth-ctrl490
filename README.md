@@ -88,7 +88,7 @@ Multilingual voice assistant with microservices-style Flask REST API backend and
 
 **Tech Stack:** `Python` `Flask` `React.js` `WebSockets` `MongoDB` `REST APIs` `OpenAI API`
 
-[🔗 Repository](https://github.com/Parth-ctrl490/Echo-Assistant)
+[🔗 Repository](https://github.com/Parth-ctrl490/jarvis)
 
 </td>
 <td width="50%">
